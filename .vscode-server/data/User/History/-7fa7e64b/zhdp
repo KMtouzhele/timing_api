@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /tute7/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^SayHello/([A-Za-z0-9]+) SayHello.php?user=$1 [QSA]
+RewriteRule ^checkpassword/([A-Za-z0-9]+)/([A-Za-z0-9]+) checkpassword.php?user=$1&password=$2 [QSA]
+RewriteRule ^calc/add/([0-9]+)/([0-9]+) add.php?num1=$1&num2=$2 [QSA]
+RewriteRule ^calc/subtract/([0-9]+)/([0-9]+) subtract.php?num1=$1&num2=$2 [QSA]
+RewriteRule ^calc/multiply/([0-9]+)/([0-9]+) multiply.php?num1=$1&num2=$2 [QSA]
+RewriteRule ^calc/divide/([0-9]+)/([0-9]+) divide.php?num1=$1&num2=$2 [QSA]
+RewriteRule ^calc/calcapi.xml [QSA]
+RewriteRule ^calculateui api_ui.php [QSA]

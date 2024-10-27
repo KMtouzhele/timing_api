@@ -1,0 +1,26 @@
+<root>
+	<function>
+		<function_name>SayHello</function_name>
+		<function_URL>SayHello.php</function_URL>
+		<parameters>
+			<param>
+				<name>user</name>
+				<default>test</default>
+			</param>
+		</parameters>
+	</function>
+	<function>
+		<function_name>Authenticate</function_name>
+		<function_URL>checkpassword.php</function_URL>
+		<parameters>
+			<param>
+				<name>user</name>
+				<default>test</default>
+			</param>
+			<param>
+				<name>password</name>
+				<default>test</default>
+			</param>
+		</parameters>
+	</function>
+</root>

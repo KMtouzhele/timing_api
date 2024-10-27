@@ -1,0 +1,20 @@
+2024-10-22 05:58:42.758 [info] Can't use the Electron fetcher in this environment.
+2024-10-22 05:58:42.758 [info] Using the Helix fetcher.
+2024-10-22 05:58:42.758 [info] Initializing Git extension service.
+2024-10-22 05:58:42.758 [info] Successfully activated the vscode.git extension.
+2024-10-22 05:58:42.758 [info] Enablement state of the vscode.git extension: true.
+2024-10-22 05:58:42.758 [info] Successfully registered Git commit message provider.
+2024-10-22 05:58:43.080 [info] Logged in as KMtouzhele
+2024-10-22 05:58:45.172 [info] Removed 1 expired certificates
+2024-10-22 05:58:46.980 [info] Got Copilot token for KMtouzhele
+2024-10-22 05:58:48.709 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-22 05:58:48.709 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-10-22 05:58:48.732 [info] Registering default platform agent...
+2024-10-22 05:58:49.207 [info] Fetched model metadata in 2205ms be36451c-7409-44f8-ac1c-5f505c6aad97
+2024-10-22 05:58:49.766 [info] activationBlocker from 'languageModelAccess' took for 7011ms
+2024-10-22 06:13:50.126 [info] Fetched model metadata in 174ms f8823b5a-dbab-41ff-80be-931e12ed366e
+2024-10-22 06:23:47.125 [info] Logged in as KMtouzhele
+2024-10-22 06:23:47.989 [info] Got Copilot token for KMtouzhele
+2024-10-22 06:23:48.339 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-22 06:28:50.399 [info] Fetched model metadata in 137ms 63417e3a-cbd2-4e67-bd9d-460e4fe28f66
+2024-10-22 06:43:50.704 [info] Fetched model metadata in 146ms b02d48c1-64b2-4cb9-99f8-769f2a98496b

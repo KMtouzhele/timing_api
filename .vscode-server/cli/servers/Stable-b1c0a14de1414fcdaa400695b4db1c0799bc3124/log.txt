@@ -1,0 +1,45 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-0308cb8e-8a95-4927-99a1-0ee63b3baa9b
+Extension host agent listening on /tmp/code-0308cb8e-8a95-4927-99a1-0ee63b3baa9b
+
+[07:55:33] 
+
+
+
+
+[07:55:33] Extension host agent started.
+[07:55:33] [<unknown>][c112f25f][ManagementConnection] New connection established.
+[07:55:33] [<unknown>][a7f6104a][ExtensionHostConnection] New connection established.
+[07:55:34] [<unknown>][a7f6104a][ExtensionHostConnection] <2171> Launched Extension Host Process.
+[07:59:33] [<unknown>][a7f6104a][ExtensionHostConnection] The client has reconnected.
+[07:59:39] [<unknown>][a7f6104a][ExtensionHostConnection] <2171> Extension Host Process exited with code: null, signal: SIGKILL.
+Cancelling previous shutdown timeout
+[07:59:39] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[07:59:39] Last EH closed, waiting before shutting down
+[07:59:55] [<unknown>][a7f6104a][ExtensionHostConnection] Unknown reconnection token (seen before).
+[07:59:55] [<unknown>][dfcbd170][ExtensionHostConnection] New connection established.
+[07:59:55] [<unknown>][dfcbd170][ExtensionHostConnection] <2879> Launched Extension Host Process.
+[08:01:29] No ptyHost heartbeat after 6 seconds
+[08:01:33] [<unknown>][dfcbd170][ExtensionHostConnection] <2879> Extension Host Process exited with code: null, signal: SIGKILL.
+Cancelling previous shutdown timeout
+[08:01:33] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[08:01:33] Last EH closed, waiting before shutting down
+[08:01:51] [<unknown>][dfcbd170][ExtensionHostConnection] Unknown reconnection token (seen before).
+[08:01:51] [<unknown>][c477a5f9][ExtensionHostConnection] New connection established.
+[08:01:51] [<unknown>][c477a5f9][ExtensionHostConnection] <3216> Launched Extension Host Process.
+[08:03:55] No ptyHost heartbeat after 6 seconds
+[08:04:22] [<unknown>][c477a5f9][ExtensionHostConnection] <3216> Extension Host Process exited with code: null, signal: SIGKILL.
+Cancelling previous shutdown timeout
+[08:04:22] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[08:04:22] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[08:09:22] Last EH closed, shutting down

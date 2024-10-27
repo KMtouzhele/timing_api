@@ -1,0 +1,53 @@
+2024-10-22 05:57:19.036 [info] 
+
+
+
+
+2024-10-22 05:57:19.048 [info] Extension host agent started.
+2024-10-22 05:57:19.110 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:19.113 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:19.115 [info] Deleted uninstalled extension from disk github.copilot /home/kit214/.vscode-server/extensions/github.copilot-1.236.0
+2024-10-22 05:57:19.132 [info] [<unknown>][bd6a6395][ManagementConnection] New connection established.
+2024-10-22 05:57:19.133 [info] [<unknown>][c2d94d73][ExtensionHostConnection] New connection established.
+2024-10-22 05:57:19.270 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:19.332 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:19.516 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:19.524 [info] [<unknown>][c2d94d73][ExtensionHostConnection] <3391> Launched Extension Host Process.
+2024-10-22 05:57:20.173 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.374 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.393 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.513 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.655 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.711 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.836 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:20.965 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:21.105 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.058 [info] Getting Manifest... github.copilot
+2024-10-22 05:57:25.058 [info] Getting Manifest... github.copilot-chat
+2024-10-22 05:57:25.081 [info] Installing extension: github.copilot {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/kit214/.vscode-server/extensions/extensions.json","external":"file:///home/kit214/.vscode-server/extensions/extensions.json","path":"/home/kit214/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-22 05:57:25.097 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.114 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.121 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.128 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/kit214/.vscode-server/extensions/extensions.json","external":"file:///home/kit214/.vscode-server/extensions/extensions.json","path":"/home/kit214/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-22 05:57:25.142 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.164 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:25.170 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:27.089 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 1526ms.
+2024-10-22 05:57:27.125 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 1557ms.
+2024-10-22 05:57:28.190 [info] Extracted extension to file:///home/kit214/.vscode-server/extensions/github.copilot-chat-0.21.2: github.copilot-chat
+2024-10-22 05:57:28.523 [info] Extracted extension to file:///home/kit214/.vscode-server/extensions/github.copilot-1.241.0: github.copilot
+2024-10-22 05:57:28.535 [info] Renamed to /home/kit214/.vscode-server/extensions/github.copilot-chat-0.21.2
+2024-10-22 05:57:28.653 [info] Renamed to /home/kit214/.vscode-server/extensions/github.copilot-1.241.0
+2024-10-22 05:57:28.671 [error] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.20.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-22 05:57:28.673 [info] Marked extension as uninstalled github.copilot-chat-0.20.1
+2024-10-22 05:57:28.686 [info] Extension installed successfully: github.copilot-chat file:///home/kit214/.vscode-server/extensions/extensions.json
+2024-10-22 05:57:28.694 [info] Marked extension as uninstalled github.copilot-1.238.0
+2024-10-22 05:57:28.697 [info] Extension installed successfully: github.copilot file:///home/kit214/.vscode-server/extensions/extensions.json
+2024-10-22 05:58:37.191 [info] [<unknown>][bd6a6395][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-22 05:58:37.240 [info] [<unknown>][c2d94d73][ExtensionHostConnection] <3391> Extension Host Process exited with code: 0, signal: null.
+2024-10-22 05:58:37.241 [info] Cancelling previous shutdown timeout
+2024-10-22 05:58:37.241 [info] Last EH closed, waiting before shutting down
+2024-10-22 05:58:38.192 [info] [<unknown>][02adf2e5][ExtensionHostConnection] New connection established.
+2024-10-22 05:58:38.198 [info] [<unknown>][02adf2e5][ExtensionHostConnection] <3908> Launched Extension Host Process.
+2024-10-22 05:58:38.226 [info] [<unknown>][541f19ca][ManagementConnection] New connection established.
+2024-10-22 06:03:37.242 [info] New EH opened, aborting shutdown

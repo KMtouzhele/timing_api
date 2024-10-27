@@ -1,0 +1,253 @@
+2024-10-09 04:25:39.764 [info] Log level: Info
+2024-10-09 04:25:39.764 [info] Validating found git in: "git"
+2024-10-09 04:25:39.764 [info] Using git "2.25.1" from "git"
+2024-10-09 04:25:39.782 [info] > git rev-parse --show-toplevel [22ms]
+2024-10-09 04:25:39.782 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:39.870 [info] > git rev-parse --show-toplevel [78ms]
+2024-10-09 04:25:40.157 [info] > git rev-parse --git-dir --git-common-dir [276ms]
+2024-10-09 04:25:40.167 [info] Open repository: /var/www/html/kit214-tutorial9-php
+2024-10-09 04:25:40.187 [info] > git config --get commit.template [10ms]
+2024-10-09 04:25:40.199 [info] > git rev-parse --show-toplevel [15ms]
+2024-10-09 04:25:40.209 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-09 04:25:40.213 [info] Open repository: /var/www/html/DVWA
+2024-10-09 04:25:40.243 [info] > git rev-parse --show-toplevel [12ms]
+2024-10-09 04:25:40.243 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.243 [info] > git config --get commit.template [22ms]
+2024-10-09 04:25:40.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2024-10-09 04:25:40.260 [warning] ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-10-09 04:25:40.268 [info] > git rev-parse --show-toplevel [16ms]
+2024-10-09 04:25:40.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.278 [info] > git rev-parse refs/remotes/origin/main [18ms]
+2024-10-09 04:25:40.289 [info] > git rev-parse --show-toplevel [12ms]
+2024-10-09 04:25:40.289 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.298 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-10-09 04:25:40.299 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-09 04:25:40.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.306 [warning] ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-10-09 04:25:40.314 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:25:40.315 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.315 [info] > git rev-parse refs/remotes/origin/master [10ms]
+2024-10-09 04:25:40.332 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 04:25:40.332 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.342 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-09 04:25:40.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:25:40.357 [info] > git status -z -uall [71ms]
+2024-10-09 04:25:40.386 [info] > git config --get commit.template [12ms]
+2024-10-09 04:25:40.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-09 04:25:40.405 [warning] ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-10-09 04:25:40.406 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-09 04:25:40.415 [info] > git status -z -uall [2ms]
+2024-10-09 04:25:40.488 [info] > git status -z -uall [166ms]
+2024-10-09 04:25:40.512 [info] > git config --get commit.template [9ms]
+2024-10-09 04:25:40.515 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-10-09 04:25:40.521 [warning] ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-10-09 04:25:40.524 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2024-10-09 04:25:40.547 [info] > git status -z -uall [17ms]
+2024-10-09 04:25:40.861 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-09 04:25:40.862 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-09 04:25:46.410 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 04:25:46.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:27:07.726 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:27:07.726 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:27:48.534 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:27:48.534 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:29:03.060 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:29:03.060 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:29:08.147 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 04:29:08.147 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:29:12.323 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:29:12.323 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:29:15.437 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:29:15.437 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 04:32:53.150 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 04:32:53.165 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-09 04:32:53.181 [info] Open repository: /var/www/html/tute10/php_web_scraper
+2024-10-09 04:32:53.210 [info] > git config --get commit.template [13ms]
+2024-10-09 04:32:53.210 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:32:53.223 [info] > git status -z -uall [2ms]
+2024-10-09 04:32:53.253 [info] > git config --get commit.template [12ms]
+2024-10-09 04:32:53.254 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-09 04:32:53.268 [info] > git status -z -uall [2ms]
+2024-10-09 04:32:53.819 [info] > git check-ignore -v -z --stdin [28ms]
+2024-10-09 04:32:53.820 [info] > git check-ignore -v -z --stdin [13ms]
+2024-10-09 04:32:53.820 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-09 04:35:18.229 [info] > git config --get commit.template [11ms]
+2024-10-09 04:35:18.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:35:18.240 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:35:18.241 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:35:18.319 [info] > git status -z -uall [69ms]
+2024-10-09 04:35:21.111 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-09 04:35:23.357 [info] > git config --get commit.template [14ms]
+2024-10-09 04:35:23.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:35:23.370 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:35:23.371 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-09 04:35:23.453 [info] > git status -z -uall [72ms]
+2024-10-09 04:35:26.540 [info] > git show --textconv :guzzle_requests.php [14ms]
+2024-10-09 04:35:26.541 [info] > git ls-files --stage -- /var/www/html/tute10/php_web_scraper/guzzle_requests.php [3ms]
+2024-10-09 04:35:26.553 [info] > git cat-file -s 8a87cd3973c7600b1f082c6b06f9508ee6ed99cd [1ms]
+2024-10-09 04:45:24.393 [info] > git config --get commit.template [13ms]
+2024-10-09 04:45:24.394 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-09 04:45:24.404 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:45:24.405 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:45:24.488 [info] > git status -z -uall [74ms]
+2024-10-09 04:46:19.078 [info] > git config --get commit.template [2ms]
+2024-10-09 04:46:19.090 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-09 04:46:19.103 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:46:19.104 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-09 04:46:19.188 [info] > git status -z -uall [72ms]
+2024-10-09 04:46:36.431 [info] > git config --get commit.template [11ms]
+2024-10-09 04:46:36.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-09 04:46:36.441 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:46:36.442 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-09 04:46:36.536 [info] > git status -z -uall [75ms]
+2024-10-09 04:47:29.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:47:29.119 [info] > git config --get commit.template [14ms]
+2024-10-09 04:47:29.130 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:47:29.131 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:47:29.223 [info] > git status -z -uall [82ms]
+2024-10-09 04:47:43.315 [info] > git config --get commit.template [11ms]
+2024-10-09 04:47:43.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:47:43.326 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:47:43.327 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:47:43.418 [info] > git status -z -uall [81ms]
+2024-10-09 04:48:53.381 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-09 04:51:07.191 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:51:07.192 [info] > git config --get commit.template [17ms]
+2024-10-09 04:51:07.202 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:51:07.204 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-09 04:51:07.292 [info] > git status -z -uall [78ms]
+2024-10-09 04:51:12.311 [info] > git config --get commit.template [2ms]
+2024-10-09 04:51:12.323 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:51:12.332 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:51:12.334 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:51:12.418 [info] > git status -z -uall [72ms]
+2024-10-09 04:51:21.599 [info] > git show --textconv :icecream.php [13ms]
+2024-10-09 04:51:21.601 [info] > git ls-files --stage -- /var/www/html/tute10/php_web_scraper/icecream.php [3ms]
+2024-10-09 04:51:21.785 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-09 04:51:22.309 [info] > git config --get commit.template [11ms]
+2024-10-09 04:51:22.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 04:51:22.321 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:51:22.322 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:51:22.405 [info] > git status -z -uall [72ms]
+2024-10-09 04:51:37.458 [info] > git config --get commit.template [14ms]
+2024-10-09 04:51:37.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-10-09 04:51:37.478 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:51:37.479 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:51:37.564 [info] > git status -z -uall [74ms]
+2024-10-09 04:52:00.369 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-09 04:52:06.106 [info] > git config --get commit.template [13ms]
+2024-10-09 04:52:06.106 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-10-09 04:52:06.120 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 04:52:06.122 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 04:52:06.206 [info] > git status -z -uall [73ms]
+2024-10-09 05:00:34.400 [info] > git config --get commit.template [13ms]
+2024-10-09 05:00:34.401 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 05:00:34.414 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 05:00:34.416 [info] > git rev-parse refs/remotes/origin/master [2ms]
+2024-10-09 05:00:34.500 [info] > git status -z -uall [73ms]
+2024-10-09 05:00:39.534 [info] > git config --get commit.template [15ms]
+2024-10-09 05:00:39.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-09 05:00:39.545 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 05:00:39.546 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 05:00:39.627 [info] > git status -z -uall [70ms]
+2024-10-09 05:06:40.146 [info] > git config --get commit.template [12ms]
+2024-10-09 05:06:40.147 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 05:06:40.159 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 05:06:40.160 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 05:06:40.250 [info] > git status -z -uall [78ms]
+2024-10-09 05:06:56.258 [info] > git show --textconv :index.php [11ms]
+2024-10-09 05:06:56.259 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/index.php [2ms]
+2024-10-09 05:06:56.271 [info] > git cat-file -s 23b35bdae3b5b5f1d3c7c0a2c1a8e382d85c8ce2 [2ms]
+2024-10-09 05:08:44.799 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-09 05:08:46.945 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-09 05:08:48.257 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-09 05:09:01.751 [info] > git show --textconv :Model/DBConn.php [13ms]
+2024-10-09 05:09:01.752 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Model/DBConn.php [2ms]
+2024-10-09 05:09:01.765 [info] > git cat-file -s 07687888f48335a46ff46224608438f0de0cc65e [2ms]
+2024-10-09 05:09:02.798 [info] > git show --textconv :Model/Model.php [14ms]
+2024-10-09 05:09:02.800 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Model/Model.php [2ms]
+2024-10-09 05:09:02.813 [info] > git cat-file -s f6a1f2033e881a8a73b05c190d04a92e822a15bf [1ms]
+2024-10-09 05:09:03.450 [info] > git show --textconv :Model/Movie.php [13ms]
+2024-10-09 05:09:03.452 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Model/Movie.php [3ms]
+2024-10-09 05:09:03.465 [info] > git cat-file -s b085613fb6a6544418e710c7cdcab5a90d21ba49 [2ms]
+2024-10-09 05:09:23.058 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:09:23.058 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:09:24.702 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:09:24.702 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:09:27.497 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:09:27.498 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:11:34.644 [info] > git show --textconv :Controller/ControllerMovie.php [13ms]
+2024-10-09 05:11:34.646 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Controller/ControllerMovie.php [3ms]
+2024-10-09 05:11:34.658 [info] > git cat-file -s a59a00c0e009318ee1977ccf7c360d5f32fb6776 [2ms]
+2024-10-09 05:11:41.475 [info] > git show --textconv :index.php [12ms]
+2024-10-09 05:11:41.476 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/index.php [2ms]
+2024-10-09 05:11:41.487 [info] > git cat-file -s 23b35bdae3b5b5f1d3c7c0a2c1a8e382d85c8ce2 [2ms]
+2024-10-09 05:12:08.028 [info] > git show --textconv :Controller/ControllerMovie.php [12ms]
+2024-10-09 05:12:08.029 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Controller/ControllerMovie.php [3ms]
+2024-10-09 05:12:08.041 [info] > git cat-file -s a59a00c0e009318ee1977ccf7c360d5f32fb6776 [2ms]
+2024-10-09 05:12:52.190 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:12:52.190 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:13:13.595 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:13:13.595 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:13:14.281 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:13:14.281 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:15:03.122 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 05:15:03.122 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:15:11.103 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-09 05:15:11.103 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:23:04.713 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:23:04.713 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:23:16.075 [info] > git show --textconv :.htaccess [13ms]
+2024-10-09 05:23:16.076 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:23:16.090 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:23:29.119 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:23:29.119 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:23:33.022 [info] > git show --textconv :.htaccess [12ms]
+2024-10-09 05:23:33.023 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:23:33.035 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [2ms]
+2024-10-09 05:23:43.991 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 05:23:43.991 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:23:47.264 [info] > git show --textconv :.htaccess [15ms]
+2024-10-09 05:23:47.264 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:23:47.280 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [2ms]
+2024-10-09 05:23:50.284 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:23:50.284 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:23:52.330 [info] > git show --textconv :.htaccess [15ms]
+2024-10-09 05:23:52.330 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:23:52.347 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:23:58.592 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:23:58.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:24:33.662 [info] > git show --textconv :.htaccess [15ms]
+2024-10-09 05:24:33.664 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [3ms]
+2024-10-09 05:24:33.676 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:24:36.737 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 05:24:36.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:24:40.963 [info] > git show --textconv :.htaccess [11ms]
+2024-10-09 05:24:40.964 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:24:40.975 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [2ms]
+2024-10-09 05:24:51.990 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:24:51.990 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:24:55.085 [info] > git show --textconv :.htaccess [13ms]
+2024-10-09 05:24:55.087 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [3ms]
+2024-10-09 05:24:55.099 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:24:56.696 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:24:56.696 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:25:02.906 [info] > git show --textconv :.htaccess [12ms]
+2024-10-09 05:25:02.908 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:25:02.919 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:25:04.042 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:25:04.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:25:16.241 [info] > git show --textconv :.htaccess [16ms]
+2024-10-09 05:25:16.242 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/.htaccess [2ms]
+2024-10-09 05:25:16.253 [info] > git cat-file -s fe77122ce394cfff013b529de73785a17bcb8325 [1ms]
+2024-10-09 05:25:21.173 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-09 05:25:21.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:27:22.036 [info] > git config --get commit.template [12ms]
+2024-10-09 05:27:22.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-10-09 05:27:22.047 [warning] ENOENT: no such file or directory, open '/var/www/html/tute10/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-09 05:27:22.048 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-09 05:27:22.128 [info] > git status -z -uall [68ms]
+2024-10-09 05:28:15.124 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:28:15.124 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-09 05:31:06.039 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-09 05:31:06.040 [info] fatal: not a git repository (or any of the parent directories): .git

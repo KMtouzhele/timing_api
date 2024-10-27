@@ -1,0 +1,67 @@
+2024-10-25 01:48:17.077 [info] [main] Log level: Info
+2024-10-25 01:48:17.077 [info] [main] Validating found git in: "git"
+2024-10-25 01:48:17.077 [info] [main] Using git "2.25.1" from "git"
+2024-10-25 01:48:17.077 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-25 01:48:17.077 [info] > git rev-parse --show-toplevel [405ms]
+2024-10-25 01:48:17.077 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:17.077 [info] > git rev-parse --show-toplevel [464ms]
+2024-10-25 01:48:17.077 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:17.077 [info] > git rev-parse --show-toplevel [93ms]
+2024-10-25 01:48:17.077 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:19.176 [info] > git rev-parse --show-toplevel [21ms]
+2024-10-25 01:48:19.176 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:19.202 [info] > git rev-parse --show-toplevel [18ms]
+2024-10-25 01:48:19.202 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:19.272 [info] > git rev-parse --show-toplevel [46ms]
+2024-10-25 01:48:19.272 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:19.354 [info] > git rev-parse --show-toplevel [65ms]
+2024-10-25 01:48:19.355 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:19.395 [info] > git rev-parse --show-toplevel [24ms]
+2024-10-25 01:48:19.397 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.040 [info] > git rev-parse --show-toplevel [627ms]
+2024-10-25 01:48:20.041 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.533 [info] > git rev-parse --show-toplevel [456ms]
+2024-10-25 01:48:20.566 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-10-25 01:48:20.588 [info] [Model][openRepository] Opened repository: /home/kit214/.nvm
+2024-10-25 01:48:20.637 [info] > git rev-parse --show-toplevel [25ms]
+2024-10-25 01:48:20.637 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.638 [info] > git config --get commit.template [35ms]
+2024-10-25 01:48:20.679 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [28ms]
+2024-10-25 01:48:20.695 [info] > git rev-parse --show-toplevel [50ms]
+2024-10-25 01:48:20.695 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.751 [info] > git status -z -uall [66ms]
+2024-10-25 01:48:20.752 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [57ms]
+2024-10-25 01:48:20.793 [info] > git rev-parse --show-toplevel [80ms]
+2024-10-25 01:48:20.793 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.811 [info] > git config --get commit.template [9ms]
+2024-10-25 01:48:20.822 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-10-25 01:48:20.857 [info] > git status -z -uall [26ms]
+2024-10-25 01:48:20.859 [info] > git rev-parse --show-toplevel [50ms]
+2024-10-25 01:48:20.875 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+2024-10-25 01:48:20.896 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2024-10-25 01:48:20.904 [info] [Model][openRepository] Opened repository: /home/kit214/php_web_scraper
+2024-10-25 01:48:20.949 [info] > git config --get commit.template [22ms]
+2024-10-25 01:48:20.952 [info] > git rev-parse --show-toplevel [20ms]
+2024-10-25 01:48:20.952 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.978 [info] > git rev-parse --show-toplevel [14ms]
+2024-10-25 01:48:20.979 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:20.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2024-10-25 01:48:20.991 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/kit214/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-25 01:48:20.996 [info] > git rev-parse refs/remotes/origin/master [5ms]
+2024-10-25 01:48:21.007 [info] > git rev-parse --show-toplevel [23ms]
+2024-10-25 01:48:21.007 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-25 01:48:21.010 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-25 01:48:21.012 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-10-25 01:48:21.456 [info] > git status -z -uall [454ms]
+2024-10-25 01:48:21.477 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2024-10-25 01:48:21.488 [info] > git config --local branch.master.vscode-merge-base [6ms]
+2024-10-25 01:48:21.499 [info] > git config --get commit.template [24ms]
+2024-10-25 01:48:21.505 [info] > git check-ignore -v -z --stdin [17ms]
+2024-10-25 01:48:21.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [7ms]
+2024-10-25 01:48:21.514 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-10-25 01:48:21.520 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/kit214/php_web_scraper/.git/refs/remotes/origin/master'
+2024-10-25 01:48:21.521 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-25 01:48:21.549 [info] > git merge-base refs/heads/master refs/remotes/origin/master [37ms]
+2024-10-25 01:48:21.568 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [37ms]
+2024-10-25 01:48:21.570 [info] > git diff --name-status -z --diff-filter=ADMR 2b38783eea968fa879315155461ab44f19fd1411...refs/remotes/origin/master [11ms]
+2024-10-25 01:48:21.768 [info] > git status -z -uall [243ms]

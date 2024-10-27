@@ -1,0 +1,19 @@
+2024-10-27 02:51:41.883 [info] 
+
+
+
+
+2024-10-27 02:51:41.901 [info] Extension host agent started.
+2024-10-27 02:51:42.054 [info] [<unknown>][8b5f4d23][ExtensionHostConnection] New connection established.
+2024-10-27 02:51:42.092 [info] [<unknown>][baf849ee][ManagementConnection] New connection established.
+2024-10-27 02:51:42.485 [info] [<unknown>][8b5f4d23][ExtensionHostConnection] <3363> Launched Extension Host Process.
+2024-10-27 02:51:46.594 [info] [<unknown>][baf849ee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-27 02:51:46.628 [info] [<unknown>][8b5f4d23][ExtensionHostConnection] <3363> Extension Host Process exited with code: 0, signal: null.
+2024-10-27 02:51:46.629 [info] Cancelling previous shutdown timeout
+2024-10-27 02:51:46.629 [info] Last EH closed, waiting before shutting down
+2024-10-27 02:51:47.552 [info] [<unknown>][375f94ef][ExtensionHostConnection] New connection established.
+2024-10-27 02:51:47.555 [info] [<unknown>][375f94ef][ExtensionHostConnection] <3686> Launched Extension Host Process.
+2024-10-27 02:51:47.594 [info] [<unknown>][20ac88ec][ManagementConnection] New connection established.
+2024-10-27 02:51:58.767 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20240918T061909/exthost2/GitHub.copilot' failed: No such file or directory (EUNKNOWN) (path: /home/kit214)
+2024-10-27 02:51:58.769 [error] [File Watcher (universal)] inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20240918T061909/exthost2/GitHub.copilot' failed: No such file or directory
+2024-10-27 02:56:46.630 [info] New EH opened, aborting shutdown

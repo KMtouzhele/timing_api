@@ -1,0 +1,33 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-402f91c4-26b4-41b5-a334-d378c5f738ff
+Extension host agent listening on /tmp/code-402f91c4-26b4-41b5-a334-d378c5f738ff
+
+[08:00:42] 
+
+
+
+
+[08:00:42] Extension host agent started.
+[08:00:42] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.18.2]: Extension is using an API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[08:00:42] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.18.2]: Extension is using an API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[08:00:42] Deleted uninstalled extension from disk github.copilot-chat /home/kit214/.vscode-server/extensions/github.copilot-chat-0.18.2
+[08:00:42] [<unknown>][5e1a5bec][ExtensionHostConnection] New connection established.
+[08:00:42] [<unknown>][20f7819e][ManagementConnection] New connection established.
+[08:00:42] [<unknown>][5e1a5bec][ExtensionHostConnection] <2416> Launched Extension Host Process.
+[08:00:55] [<unknown>][20f7819e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[08:00:55] [<unknown>][5e1a5bec][ExtensionHostConnection] <2416> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[08:00:55] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[08:00:55] Last EH closed, waiting before shutting down
+[08:00:56] [<unknown>][f3cb684a][ManagementConnection] New connection established.
+[08:00:56] [<unknown>][95610323][ExtensionHostConnection] New connection established.
+[08:00:56] [<unknown>][95610323][ExtensionHostConnection] <2503> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[08:05:55] New EH opened, aborting shutdown

@@ -1,0 +1,33 @@
+<root>
+	<function>
+		<function_name>Add</function_name>
+		<function_URL>calc/add</function_URL>
+		<parameters>
+			<param>
+				<name>num1</name>
+				<default>6</default>
+			</param>
+			<param>
+				<name>num2</name>
+				<default>5</default>
+			</param>
+		</parameters>
+	</function>
+	<function>
+		<function_name>Subtract</function_name>
+		<function_URL>calc/subtract</function_URL>
+		<parameters>
+			<param>
+				<name>num1</name>
+				<default>42</default>
+			</param>
+			<param>
+				<name>num2</name>
+				<default>2</default>
+			</param>
+		</parameters>
+	</function>
+  
+  <!-- add in the multiply and divide -->
+  
+</root>

@@ -1,0 +1,51 @@
+2024-10-27 05:40:32.560 [info] Can't use the Electron fetcher in this environment.
+2024-10-27 05:40:32.560 [info] Using the Helix fetcher.
+2024-10-27 05:40:32.560 [info] Initializing Git extension service.
+2024-10-27 05:40:32.560 [info] Successfully activated the vscode.git extension.
+2024-10-27 05:40:32.560 [info] Enablement state of the vscode.git extension: true.
+2024-10-27 05:40:32.560 [info] Successfully registered Git commit message provider.
+2024-10-27 05:40:34.047 [info] Logged in as KMtouzhele
+2024-10-27 05:40:34.296 [info] Removed 1 expired certificates
+2024-10-27 05:40:36.431 [info] Got Copilot token for KMtouzhele
+2024-10-27 05:40:36.991 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 05:40:36.991 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-10-27 05:40:37.018 [info] Registering default platform agent...
+2024-10-27 05:40:37.465 [info] Fetched model metadata in 1014ms 627c958e-2361-4817-8b10-c882dfb5f772
+2024-10-27 05:40:38.589 [info] activationBlocker from 'languageModelAccess' took for 4946ms
+2024-10-27 05:55:38.894 [info] Fetched model metadata in 149ms f5a67a3d-fa58-47f5-b4d5-8ded20c60fb4
+2024-10-27 06:05:36.584 [info] Logged in as KMtouzhele
+2024-10-27 06:05:37.502 [info] Got Copilot token for KMtouzhele
+2024-10-27 06:05:37.804 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 06:10:39.329 [info] Fetched model metadata in 183ms 958828f8-86a9-4248-98bb-335225b27bbf
+2024-10-27 06:25:39.640 [info] Fetched model metadata in 135ms baf7a953-09f6-4896-9163-2f15b4c5841e
+2024-10-27 06:27:20.543 [info] message 0 returned. finish reason: [stop]
+2024-10-27 06:27:20.544 [info] request done: requestId: [ab94cc04-5dd3-4d93-ae86-88f7c95b2f29] model deployment ID: []
+2024-10-27 06:30:37.645 [info] Logged in as KMtouzhele
+2024-10-27 06:30:38.529 [info] Got Copilot token for KMtouzhele
+2024-10-27 06:30:38.985 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 06:40:40.074 [info] Fetched model metadata in 177ms 7e912752-b959-4b1f-a325-49cf83f1683f
+2024-10-27 06:55:38.728 [info] Logged in as KMtouzhele
+2024-10-27 06:55:39.643 [info] Got Copilot token for KMtouzhele
+2024-10-27 06:55:39.909 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 06:55:40.201 [info] Fetched model metadata in 135ms cbb57a5a-4dc4-4334-8e5a-0b93f2619c07
+2024-10-27 07:10:40.509 [info] Fetched model metadata in 132ms c483a054-460e-4ce4-87f2-c0f2534ec39c
+2024-10-27 07:20:39.785 [info] Logged in as KMtouzhele
+2024-10-27 07:20:40.733 [info] Got Copilot token for KMtouzhele
+2024-10-27 07:20:41.025 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 07:20:41.380 [info] Fetched model metadata in 206ms 7b00b2d6-2345-4942-99df-7c236455a66b
+2024-10-27 07:35:39.099 [info] Fetched model metadata in 131ms d3508f55-5934-4bbc-ad5b-90d2e54e52d8
+2024-10-27 07:45:40.104 [info] Fetched model metadata in 144ms f81b6e1c-1745-4b9f-9fb1-d5971b657d27
+2024-10-27 07:45:40.955 [info] Logged in as KMtouzhele
+2024-10-27 07:45:41.807 [info] Got Copilot token for KMtouzhele
+2024-10-27 07:45:42.081 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 07:55:41.149 [info] Fetched model metadata in 133ms f0889462-8aa6-45e0-8502-9a9f589ac931
+2024-10-27 08:05:41.936 [info] Fetched model metadata in 136ms 4b644076-b0d5-44b7-af75-ad8e5a96c43f
+2024-10-27 08:10:41.954 [info] Logged in as KMtouzhele
+2024-10-27 08:10:42.954 [info] Got Copilot token for KMtouzhele
+2024-10-27 08:10:43.237 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 08:15:42.669 [info] Fetched model metadata in 163ms a442bdc7-601e-49dc-81c8-1d97796d454e
+2024-10-27 08:25:43.737 [info] Fetched model metadata in 140ms 1f7a13a2-1d63-4a1e-b53c-f9494e1a1ec1
+2024-10-27 08:35:43.099 [info] Logged in as KMtouzhele
+2024-10-27 08:35:43.964 [info] Got Copilot token for KMtouzhele
+2024-10-27 08:35:44.260 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-27 08:35:44.562 [info] Fetched model metadata in 153ms defcd97c-3c99-45c2-bd64-461bffd42b05

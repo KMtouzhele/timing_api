@@ -1,0 +1,11 @@
+2024-10-09 04:25:37.958 [info] Extension host with pid 3490 started
+2024-10-09 04:25:37.973 [info] Lock '/home/kit214/.vscode-server/data/User/workspaceStorage/37bb1b900e32e8dc581093e6f84702b1/vscode.lock': Lock acquired.
+2024-10-09 04:25:38.152 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-09 04:25:38.153 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-10-09 04:25:38.496 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-09 04:25:38.613 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-09 04:25:38.613 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-09 04:25:38.951 [info] Eager extensions activated
+2024-10-09 04:25:38.951 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-09 04:25:38.952 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-09 04:25:38.952 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'

@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /tute7/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^SayHello/(.*)$ SayHello.php?user=$1 [QSA]
+RewriteRule ^checkpassword/([A-Za-z0-9]+)/([A-Za-z0-9]+) checkpassword.php?user=$1&password=$2 [QSA]
+
+

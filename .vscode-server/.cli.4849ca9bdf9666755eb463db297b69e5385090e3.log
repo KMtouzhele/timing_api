@@ -1,0 +1,12 @@
+Listening on 127.0.0.1:37369
+[2024-09-15 08:00:40] info Disposed of connection to running server.
+looking for token f57a0194-b82a-4154-8420-b0f30320a3bd, got Some("f57a0194-b82a-4154-8420-b0f30320a3bd")
+[2024-09-15 08:00:40] info Checking /home/kit214/.vscode-server/cli/servers/Stable-4849ca9bdf9666755eb463db297b69e5385090e3/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-4849ca9bdf9666755eb463db297b69e5385090e3/pid.txt for a running server...
+[2024-09-15 08:00:40] info Starting server...
+[2024-09-15 08:00:41] info Server started
+[2024-09-15 08:00:55] info Disposed of connection to running server.
+[2024-09-15 08:00:56] info Disposed of connection to running server.
+looking for token f57a0194-b82a-4154-8420-b0f30320a3bd, got Some("f57a0194-b82a-4154-8420-b0f30320a3bd")
+[2024-09-15 08:00:56] info Checking /home/kit214/.vscode-server/cli/servers/Stable-4849ca9bdf9666755eb463db297b69e5385090e3/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-4849ca9bdf9666755eb463db297b69e5385090e3/pid.txt for a running server...
+[2024-09-15 08:00:56] info Found running server (pid=2376)
+[2024-09-15 09:12:02] info Disposed of connection to running server.

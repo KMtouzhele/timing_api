@@ -1,0 +1,11 @@
+Listening on 127.0.0.1:41875
+[2024-10-27 05:40:12] info Disposed of connection to running server.
+looking for token fcba1a97-16bf-4115-bbb1-1ab5d6cad06f, got Some("fcba1a97-16bf-4115-bbb1-1ab5d6cad06f")
+[2024-10-27 05:40:12] info Checking /home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/pid.txt for a running server...
+[2024-10-27 05:40:12] info Starting server...
+[2024-10-27 05:40:14] info Server started
+[2024-10-27 05:40:24] info Disposed of connection to running server.
+[2024-10-27 05:40:24] info Disposed of connection to running server.
+looking for token fcba1a97-16bf-4115-bbb1-1ab5d6cad06f, got Some("fcba1a97-16bf-4115-bbb1-1ab5d6cad06f")
+[2024-10-27 05:40:24] info Checking /home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/pid.txt for a running server...
+[2024-10-27 05:40:24] info Found running server (pid=3149)

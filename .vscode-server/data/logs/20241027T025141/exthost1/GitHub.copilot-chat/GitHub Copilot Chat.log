@@ -1,0 +1,8 @@
+2024-10-27 02:51:45.379 [info] Can't use the Electron fetcher in this environment.
+2024-10-27 02:51:45.379 [info] Using the Helix fetcher.
+2024-10-27 02:51:45.379 [info] Initializing Git extension service.
+2024-10-27 02:51:45.379 [info] Successfully activated the vscode.git extension.
+2024-10-27 02:51:45.379 [info] Enablement state of the vscode.git extension: true.
+2024-10-27 02:51:45.379 [info] Successfully registered Git commit message provider.
+2024-10-27 02:51:45.941 [info] Logged in as KMtouzhele
+2024-10-27 02:51:46.000 [info] Removed 1 expired certificates

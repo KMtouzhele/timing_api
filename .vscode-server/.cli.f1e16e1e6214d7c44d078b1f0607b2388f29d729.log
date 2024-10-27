@@ -1,0 +1,20 @@
+Listening on 127.0.0.1:42019
+[2024-08-14 07:06:56] info Disposed of connection to running server.
+looking for token 81c548ba-f7c8-4a9a-85c7-6ccfe4415bba, got Some("81c548ba-f7c8-4a9a-85c7-6ccfe4415bba")
+[2024-08-14 07:06:56] info Checking /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-08-14 07:06:56] info Starting server...
+[2024-08-14 07:06:58] info Server started
+[2024-08-14 07:11:16] info Disposed of connection to running server.
+[2024-08-14 07:11:16] info Disposed of connection to running server.
+looking for token 81c548ba-f7c8-4a9a-85c7-6ccfe4415bba, got Some("81c548ba-f7c8-4a9a-85c7-6ccfe4415bba")
+[2024-08-14 07:11:16] info Checking /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-08-14 07:11:16] info Found running server (pid=2321)
+[2024-08-14 07:13:48] info Disposed of connection to running server.
+[2024-08-14 07:14:02] info Disposed of connection to running server.
+looking for token 81c548ba-f7c8-4a9a-85c7-6ccfe4415bba, got Some("81c548ba-f7c8-4a9a-85c7-6ccfe4415bba")
+[2024-08-14 07:14:02] info Disposed of connection to running server.
+[2024-08-14 07:14:03] info Disposed of connection to running server.
+looking for token 81c548ba-f7c8-4a9a-85c7-6ccfe4415bba, got Some("81c548ba-f7c8-4a9a-85c7-6ccfe4415bba")
+[2024-08-14 07:14:04] info Checking /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-08-14 07:14:04] info Found running server (pid=2321)
+[2024-08-14 07:14:17] info Disposed of connection to running server.

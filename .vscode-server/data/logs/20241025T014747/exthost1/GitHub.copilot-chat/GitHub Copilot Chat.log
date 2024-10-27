@@ -1,0 +1,26 @@
+2024-10-25 01:47:50.910 [info] Can't use the Electron fetcher in this environment.
+2024-10-25 01:47:50.910 [info] Using the Helix fetcher.
+2024-10-25 01:47:50.910 [info] Initializing Git extension service.
+2024-10-25 01:47:50.910 [info] Successfully activated the vscode.git extension.
+2024-10-25 01:47:50.910 [info] Enablement state of the vscode.git extension: true.
+2024-10-25 01:47:50.910 [info] Successfully registered Git commit message provider.
+2024-10-25 01:47:51.598 [info] Logged in as KMtouzhele
+2024-10-25 01:47:51.655 [info] Removed 1 expired certificates
+2024-10-25 01:47:52.820 [info] Got Copilot token for KMtouzhele
+2024-10-25 01:47:53.292 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-25 01:47:53.292 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-10-25 01:47:53.311 [info] Registering default platform agent...
+2024-10-25 01:47:53.780 [info] Fetched model metadata in 950ms cb9d686e-141c-430e-8d4b-95c0bc9719eb
+2024-10-25 01:47:54.574 [info] activationBlocker from 'languageModelAccess' took for 3619ms
+2024-10-25 02:10:25.497 [info] Fetched model metadata in 239976ms 986b83f1-bc61-4cc3-b46a-c05465d114ae
+2024-10-25 02:16:25.522 [info] Logged in as KMtouzhele
+2024-10-25 02:16:26.371 [info] Got Copilot token for KMtouzhele
+2024-10-25 02:24:25.515 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-25 02:32:25.508 [info] Fetched model metadata in 239991ms 3c7e6bce-9f92-497d-a94e-9f21e49b9f68
+2024-10-25 02:45:25.510 [info] Logged in as KMtouzhele
+2024-10-25 02:45:26.398 [info] Got Copilot token for KMtouzhele
+2024-10-25 02:53:25.509 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-25 02:53:25.510 [info] Fetched model metadata in 239957ms 75d9bf77-dd3f-49b0-8e18-f077c4fc896b
+2024-10-25 03:14:25.537 [info] Logged in as KMtouzhele
+2024-10-25 03:14:26.505 [info] Got Copilot token for KMtouzhele
+2024-10-25 03:16:25.536 [info] Fetched model metadata in 119027ms 6efb5151-7659-4f56-98bc-b1b5b53f3ffa

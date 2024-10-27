@@ -1,0 +1,61 @@
+2024-10-02 05:26:52.389 [info] Log level: Info
+2024-10-02 05:26:52.389 [info] Validating found git in: "git"
+2024-10-02 05:26:52.389 [info] Using git "2.25.1" from "git"
+2024-10-02 05:26:52.390 [info] > git rev-parse --show-toplevel [47ms]
+2024-10-02 05:26:52.390 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.390 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-02 05:26:52.391 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-02 05:26:52.402 [info] Open repository: /var/www/html/DVWA
+2024-10-02 05:26:52.420 [info] > git config --get commit.template [9ms]
+2024-10-02 05:26:52.421 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-02 05:26:52.440 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-10-02 05:26:52.447 [info] Open repository: /var/www/html/kit214-tutorial9-php
+2024-10-02 05:26:52.478 [info] > git config --get commit.template [19ms]
+2024-10-02 05:26:52.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [51ms]
+2024-10-02 05:26:52.489 [warning] ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-10-02 05:26:52.499 [info] > git rev-parse --show-toplevel [32ms]
+2024-10-02 05:26:52.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.511 [info] > git rev-parse refs/remotes/origin/master [22ms]
+2024-10-02 05:26:52.536 [info] > git rev-parse --show-toplevel [26ms]
+2024-10-02 05:26:52.536 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.537 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [39ms]
+2024-10-02 05:26:52.564 [warning] ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-10-02 05:26:52.566 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-02 05:26:52.573 [info] > git rev-parse --show-toplevel [15ms]
+2024-10-02 05:26:52.573 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.581 [info] > git status -z -uall [9ms]
+2024-10-02 05:26:52.597 [info] > git rev-parse --show-toplevel [17ms]
+2024-10-02 05:26:52.597 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.612 [info] > git config --get commit.template [15ms]
+2024-10-02 05:26:52.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-10-02 05:26:52.613 [info] > git rev-parse --show-toplevel [9ms]
+2024-10-02 05:26:52.613 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.619 [warning] ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-10-02 05:26:52.628 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 05:26:52.628 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 05:26:52.632 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2024-10-02 05:26:52.642 [info] > git status -z -uall [3ms]
+2024-10-02 05:26:52.723 [info] > git status -z -uall [189ms]
+2024-10-02 05:26:52.743 [info] > git config --get commit.template [8ms]
+2024-10-02 05:26:52.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-10-02 05:26:52.750 [warning] ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-10-02 05:26:52.751 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2024-10-02 05:26:52.779 [info] > git status -z -uall [22ms]
+2024-10-02 05:26:53.112 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-02 05:26:53.113 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-02 05:35:55.780 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-02 05:35:56.860 [info] > git check-ignore -v -z --stdin [1ms]
+2024-10-02 05:35:58.821 [info] > git show --textconv :Model/Model.php [10ms]
+2024-10-02 05:35:58.823 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Model/Model.php [3ms]
+2024-10-02 05:35:58.833 [info] > git cat-file -s f6a1f2033e881a8a73b05c190d04a92e822a15bf [2ms]
+2024-10-02 05:35:59.300 [info] > git show --textconv :Model/DBConn.php [10ms]
+2024-10-02 05:35:59.301 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/Model/DBConn.php [2ms]
+2024-10-02 05:35:59.312 [info] > git cat-file -s 07687888f48335a46ff46224608438f0de0cc65e [1ms]
+2024-10-02 05:46:15.737 [info] > git config --get commit.template [11ms]
+2024-10-02 05:46:15.738 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-02 05:46:15.748 [warning] ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-10-02 05:46:15.749 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-02 05:46:15.761 [info] > git status -z -uall [2ms]
+2024-10-02 05:46:19.442 [info] > git show --textconv :index.php [11ms]
+2024-10-02 05:46:19.443 [info] > git ls-files --stage -- /var/www/html/kit214-tutorial9-php/index.php [2ms]
+2024-10-02 05:46:19.455 [info] > git cat-file -s 23b35bdae3b5b5f1d3c7c0a2c1a8e382d85c8ce2 [2ms]
