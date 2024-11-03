@@ -1,0 +1,67 @@
+2024-11-03 00:48:45.809 [info] Extension host with pid 3224 started
+2024-11-03 00:48:45.864 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-03 00:48:45.913 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-03 00:48:45.918 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-03 00:48:46.348 [info] Eager extensions activated
+2024-11-03 00:48:46.349 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:46.349 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:46.350 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:46.350 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:54.120 [info] Extension host terminating: received terminate message from renderer
+2024-11-03 00:48:54.375 [error] Fake Auth request failed
+2024-11-03 00:48:54.377 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.377 [error] Fake Auth request failed
+2024-11-03 00:48:54.377 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.377 [error] Fake Auth request failed
+2024-11-03 00:48:54.377 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.377 [error] Fake Auth request failed
+2024-11-03 00:48:54.377 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.377 [error] Fake Auth request failed
+2024-11-03 00:48:54.377 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.378 [error] Fake Auth request failed
+2024-11-03 00:48:54.378 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.378 [error] Fake Auth request failed
+2024-11-03 00:48:54.378 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.378 [error] Fake Auth request failed
+2024-11-03 00:48:54.378 [error] Canceled: Canceled
+    at new eA (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:151177)
+    at Zb.U (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:155789)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:31:153283)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/server/out/vs/workbench/api/node/extensionHostProcess.js:116:2725
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-11-03 00:48:54.378 [info] Extension host with pid 3224 exiting with code 0

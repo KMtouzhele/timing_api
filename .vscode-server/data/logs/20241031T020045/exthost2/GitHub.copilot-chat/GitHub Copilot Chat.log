@@ -1,0 +1,14 @@
+2024-10-31 02:01:12.542 [info] Can't use the Electron fetcher in this environment.
+2024-10-31 02:01:12.544 [info] Using the Helix fetcher.
+2024-10-31 02:01:12.544 [info] Initializing Git extension service.
+2024-10-31 02:01:12.544 [info] Successfully activated the vscode.git extension.
+2024-10-31 02:01:12.544 [info] Enablement state of the vscode.git extension: true.
+2024-10-31 02:01:12.544 [info] Successfully registered Git commit message provider.
+2024-10-31 02:01:14.277 [info] Logged in as KMtouzhele
+2024-10-31 02:01:15.230 [info] Removed 1 expired certificates
+2024-10-31 02:01:16.587 [info] Got Copilot token for KMtouzhele
+2024-10-31 02:01:17.156 [info] copilot token chat_enabled: true, sku: free_educational
+2024-10-31 02:01:17.156 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-10-31 02:01:17.175 [info] Registering default platform agent...
+2024-10-31 02:01:19.016 [info] Fetched model metadata in 2413ms 86bdae0e-6e18-4fc8-b2dc-92e5c28fdf8f
+2024-10-31 02:01:19.927 [info] activationBlocker from 'languageModelAccess' took for 8222ms

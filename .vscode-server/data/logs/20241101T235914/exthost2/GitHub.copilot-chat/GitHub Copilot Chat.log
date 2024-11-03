@@ -1,0 +1,41 @@
+2024-11-02 00:00:12.872 [info] Can't use the Electron fetcher in this environment.
+2024-11-02 00:00:12.873 [info] Using the Helix fetcher.
+2024-11-02 00:00:12.873 [info] Initializing Git extension service.
+2024-11-02 00:00:12.873 [info] Successfully activated the vscode.git extension.
+2024-11-02 00:00:12.873 [info] Enablement state of the vscode.git extension: true.
+2024-11-02 00:00:12.873 [info] Successfully registered Git commit message provider.
+2024-11-02 00:00:14.381 [info] Logged in as KMtouzhele
+2024-11-02 00:00:14.966 [info] Removed 1 expired certificates
+2024-11-02 00:00:16.282 [info] Got Copilot token for KMtouzhele
+2024-11-02 00:00:16.858 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 00:00:16.858 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-11-02 00:00:16.884 [info] Registering default platform agent...
+2024-11-02 00:00:17.276 [info] Fetched model metadata in 982ms 0bdfee3a-8df1-46b0-b349-3024bf129915
+2024-11-02 00:00:18.156 [info] activationBlocker from 'languageModelAccess' took for 5983ms
+2024-11-02 00:15:18.440 [info] Fetched model metadata in 140ms 2511aa41-a916-4359-a82c-4439f660229b
+2024-11-02 00:25:16.428 [info] Logged in as KMtouzhele
+2024-11-02 00:25:17.340 [info] Got Copilot token for KMtouzhele
+2024-11-02 00:25:17.627 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 00:30:18.722 [info] Fetched model metadata in 137ms ee5e34bd-ebb9-48e6-9a77-7747da904445
+2024-11-02 00:45:19.110 [info] Fetched model metadata in 169ms e28539e2-c1bf-4e24-8f6a-8c23dab247a7
+2024-11-02 00:51:09.715 [info] Logged in as KMtouzhele
+2024-11-02 00:51:10.561 [info] Got Copilot token for KMtouzhele
+2024-11-02 00:51:11.009 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 01:00:19.402 [info] Fetched model metadata in 135ms 27cf5557-572b-487b-9cd6-bde1da315db0
+2024-11-02 01:18:19.634 [info] Logged in as KMtouzhele
+2024-11-02 01:18:20.625 [info] Got Copilot token for KMtouzhele
+2024-11-02 01:18:20.635 [info] Fetched model metadata in 181085ms 5ae31e11-7de1-47d7-af9c-940710b06cce
+2024-11-02 01:20:46.282 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 01:34:17.132 [info] Fetched model metadata in 253ms ede87c50-b047-4103-85f5-0dc467a9744f
+2024-11-02 01:43:20.757 [info] Logged in as KMtouzhele
+2024-11-02 01:43:21.637 [info] Got Copilot token for KMtouzhele
+2024-11-02 01:43:21.934 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 01:49:17.488 [info] Fetched model metadata in 204ms 64ec6b35-693d-4ffc-b05c-6b3ce3332b5d
+2024-11-02 01:59:18.849 [info] Fetched model metadata in 136ms 7f2eaccf-497b-4e10-9bdf-c0074b21e289
+2024-11-02 02:08:21.771 [info] Logged in as KMtouzhele
+2024-11-02 02:08:22.630 [info] Got Copilot token for KMtouzhele
+2024-11-02 02:08:22.959 [info] copilot token chat_enabled: true, sku: free_educational
+2024-11-02 02:09:19.941 [info] Fetched model metadata in 133ms 47f3fab5-549f-49e9-9f2d-e0225223b3ee
+2024-11-02 02:31:19.645 [info] Fetched model metadata in 239995ms 3e146d8f-f227-4dd7-8d6e-f7a75236a753
+2024-11-02 02:37:19.650 [info] Logged in as KMtouzhele
+2024-11-02 02:37:20.628 [info] Got Copilot token for KMtouzhele

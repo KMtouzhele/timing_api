@@ -1,6 +1,0 @@
-2024-10-02 05:51:22.572 [info] [certificates] Removed 7 expired certificates
-2024-10-02 05:51:26.127 [error] [auth] auth: CopilotAuthError: GitHubLoginFailed
-    at attemptAuthentication (/home/kit214/.vscode-server/extensions/github.copilot-1.234.0/extension/src/auth.ts:63:54) {
-  cause: undefined
-}
-2024-10-02 05:51:26.127 [error] [auth] You are not signed in to GitHub. Please sign in to use Copilot.

@@ -5,27 +5,102 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to /tmp/code-bd785da4-158e-4481-a8cb-4c675a96e316
-Extension host agent listening on /tmp/code-bd785da4-158e-4481-a8cb-4c675a96e316
+Server bound to /tmp/code-ac2700e0-d952-4212-afde-8b9932c1c3a2
+Extension host agent listening on /tmp/code-ac2700e0-d952-4212-afde-8b9932c1c3a2
 
-[05:40:14] 
-
-
+[00:48:44] 
 
 
-[05:40:14] Extension host agent started.
-[05:40:15] [<unknown>][bf7cf28c][ManagementConnection] New connection established.
-[05:40:15] [<unknown>][ebcf0a85][ExtensionHostConnection] New connection established.
-[05:40:15] [<unknown>][ebcf0a85][ExtensionHostConnection] <3421> Launched Extension Host Process.
-[05:40:24] [<unknown>][bf7cf28c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[05:40:24] [<unknown>][ebcf0a85][ExtensionHostConnection] <3421> Extension Host Process exited with code: 0, signal: null.
+
+
+[00:48:44] Extension host agent started.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [<unknown>][d9d8c4d7][ManagementConnection] New connection established.
+[00:48:44] [<unknown>][2e9299d6][ExtensionHostConnection] New connection established.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:44] [<unknown>][2e9299d6][ExtensionHostConnection] <3224> Launched Extension Host Process.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:45] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:46] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:47] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:47] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:48] Getting Manifest... github.copilot-chat
+[00:48:48] Installing extension: github.copilot-chat {
+  productVersion: { version: '1.95.0', date: '1970-01-01T00:00:00.000Z' },
+  pinned: false,
+  operation: 3,
+  isApplicationScoped: false,
+  donotVerifySignature: false,
+  context: { clientTargetPlatform: 'darwin-arm64' },
+  installOnlyNewlyAddedFromExtensionPack: true,
+  profileLocation: hn {
+    scheme: 'file',
+    authority: '',
+    path: '/home/kit214/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///home/kit214/.vscode-server/extensions/extensions.json',
+    _fsPath: '/home/kit214/.vscode-server/extensions/extensions.json'
+  }
+}
+[00:48:48] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:48] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:48] Error while installing the extension github.copilot-chat Cannot read the extension from /home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1 file:///home/kit214/.vscode-server/extensions/extensions.json
+[00:48:51] [<unknown>][d9d8c4d7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[00:48:52] [<unknown>][23751946][ExtensionHostConnection] New connection established.
+[00:48:52] [<unknown>][23751946][ExtensionHostConnection] <3557> Launched Extension Host Process.
+[00:48:53] [<unknown>][e3c5629e][ManagementConnection] New connection established.
+[00:48:53] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:53] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:53] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:53] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [<unknown>][2e9299d6][ExtensionHostConnection] <3224> Extension Host Process exited with code: 0, signal: null.
 Cancelling previous shutdown timeout
-[05:40:24] Cancelling previous shutdown timeout
-Last EH closed, waiting before shutting down
-[05:40:24] Last EH closed, waiting before shutting down
-[05:40:24] [<unknown>][c978cff1][ExtensionHostConnection] New connection established.
-[05:40:24] [<unknown>][c978cff1][ExtensionHostConnection] <3755> Launched Extension Host Process.
-[05:40:24] [<unknown>][15b0cc4d][ManagementConnection] New connection established.
-New EH opened, aborting shutdown
-[05:45:24] New EH opened, aborting shutdown
-[08:49:46] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+[00:48:54] Cancelling previous shutdown timeout
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:54] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:55] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:48:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:49:04] [File Watcher] Unexpected error: inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20241024T094232/exthost1/GitHub.copilot-chat' failed: No such file or directory (EUNKNOWN) (path: /home/kit214)
+[00:49:04] [File Watcher (universal)] inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20241024T094232/exthost1/GitHub.copilot-chat' failed: No such file or directory
+[00:53:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:53:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:58:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[00:58:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:03:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:03:56] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:08:57] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:08:57] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:13:59] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:13:59] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:19:19] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:19:19] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:24:19] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.
+[01:24:19] [/home/kit214/.vscode-server/extensions/github.copilot-chat-0.22.1]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0-20241022.

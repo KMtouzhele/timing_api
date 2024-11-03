@@ -1,0 +1,15 @@
+2024-10-29 03:27:05.295 [info] 
+
+
+
+
+2024-10-29 03:27:05.312 [info] Extension host agent started.
+2024-10-29 03:27:05.450 [info] Deleted uninstalled extension from disk github.copilot /home/kit214/.vscode-server/extensions/github.copilot-1.242.0
+2024-10-29 03:27:05.453 [info] [<unknown>][5cd75544][ManagementConnection] New connection established.
+2024-10-29 03:27:05.488 [info] [<unknown>][ad388980][ExtensionHostConnection] New connection established.
+2024-10-29 03:27:06.065 [info] [<unknown>][ad388980][ExtensionHostConnection] <3320> Launched Extension Host Process.
+2024-10-29 03:32:05.313 [info] New EH opened, aborting shutdown
+2024-10-29 05:30:51.351 [info] [<unknown>][5cd75544][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-10-29 05:30:51.507 [info] [<unknown>][ad388980][ExtensionHostConnection] <3320> Extension Host Process exited with code: 0, signal: null.
+2024-10-29 05:30:51.508 [info] Last EH closed, waiting before shutting down
+2024-10-29 05:35:51.509 [info] Last EH closed, shutting down

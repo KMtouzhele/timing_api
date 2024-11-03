@@ -1,0 +1,19 @@
+2024-10-29 01:14:40.159 [info] 
+
+
+
+
+2024-10-29 01:14:40.175 [info] Extension host agent started.
+2024-10-29 01:14:40.314 [info] [<unknown>][8c0e012b][ExtensionHostConnection] New connection established.
+2024-10-29 01:14:40.351 [info] [<unknown>][78a38e77][ManagementConnection] New connection established.
+2024-10-29 01:14:40.712 [info] [<unknown>][8c0e012b][ExtensionHostConnection] <6171> Launched Extension Host Process.
+2024-10-29 01:14:44.627 [info] Getting Manifest... github.copilot
+2024-10-29 01:14:44.694 [info] Installing extension: github.copilot {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-arm64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/home/kit214/.vscode-server/extensions/extensions.json","external":"file:///home/kit214/.vscode-server/extensions/extensions.json","path":"/home/kit214/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-10-29 01:14:50.085 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20241002T052626/exthost1/GitHub.copilot' failed: No such file or directory (EUNKNOWN) (path: /home/kit214)
+2024-10-29 01:14:50.099 [error] [File Watcher (universal)] inotify_add_watch on '/home/kit214/.vscode-server/data/logs/20241002T052626/exthost1/GitHub.copilot' failed: No such file or directory
+2024-10-29 01:14:51.517 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 5621ms.
+2024-10-29 01:14:52.764 [info] Extracted extension to file:///home/kit214/.vscode-server/extensions/github.copilot-1.243.0: github.copilot
+2024-10-29 01:14:52.790 [info] Renamed to /home/kit214/.vscode-server/extensions/github.copilot-1.243.0
+2024-10-29 01:14:52.820 [info] Marked extension as uninstalled github.copilot-1.242.0
+2024-10-29 01:14:52.836 [info] Extension installed successfully: github.copilot file:///home/kit214/.vscode-server/extensions/extensions.json
+2024-10-29 01:19:40.176 [info] New EH opened, aborting shutdown

@@ -488,3 +488,37 @@ sudo service apache2 stop
 node index.js
 sudo service apache2 stop
 node index.js
+sudo service apache2 stop
+node index.js
+[A
+node index.js
+git init
+git add .
+git rm --cached -r .nvm
+git sdd .
+git add .
+git init
+git add php_web_scraper
+git add php_web_scraper2
+git status
+git commit -m "timing api"
+git remote add origin https://github.com/KMtouzhele/timing_api.git
+git push origin main
+git push -u origin main
+git branch
+git push -u origin maater
+git push -u origin master
+git add .
+git status
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js

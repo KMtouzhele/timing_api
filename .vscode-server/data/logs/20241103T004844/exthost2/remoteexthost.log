@@ -1,0 +1,24 @@
+2024-11-03 00:48:54.132 [info] Extension host with pid 3557 started
+2024-11-03 00:48:54.132 [error] Error: EEXIST: file already exists, open '/home/kit214/.vscode-server/data/User/workspaceStorage/80807b02bdf3f5aa8b98645520289ee2/vscode.lock'
+2024-11-03 00:48:54.169 [info] Lock '/home/kit214/.vscode-server/data/User/workspaceStorage/80807b02bdf3f5aa8b98645520289ee2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-11-03 00:48:54.186 [info] Lock '/home/kit214/.vscode-server/data/User/workspaceStorage/80807b02bdf3f5aa8b98645520289ee2/vscode.lock': The pid 3782 appears to be gone.
+2024-11-03 00:48:54.186 [info] Lock '/home/kit214/.vscode-server/data/User/workspaceStorage/80807b02bdf3f5aa8b98645520289ee2/vscode.lock': Deleting a stale lock.
+2024-11-03 00:48:54.203 [info] Lock '/home/kit214/.vscode-server/data/User/workspaceStorage/80807b02bdf3f5aa8b98645520289ee2/vscode.lock': Lock acquired.
+2024-11-03 00:48:54.352 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-03 00:48:54.354 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-11-03 00:48:54.354 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-03 00:48:55.207 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-03 00:48:55.228 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-03 00:48:55.566 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-11-03 00:48:56.406 [info] Eager extensions activated
+2024-11-03 00:48:56.411 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:56.412 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:56.418 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:48:56.420 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-03 00:49:03.699 [warning] [Decorations] CAPPING events from decorations provider vscode.git 872
+2024-11-03 00:49:03.743 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-03 00:49:03.745 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-03 00:49:03.745 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-03 00:49:05.969 [warning] [Decorations] CAPPING events from decorations provider vscode.git 873
+2024-11-03 00:49:10.200 [warning] [Decorations] CAPPING events from decorations provider vscode.git 882
+2024-11-03 01:28:06.640 [warning] [Decorations] CAPPING events from decorations provider vscode.git 884
