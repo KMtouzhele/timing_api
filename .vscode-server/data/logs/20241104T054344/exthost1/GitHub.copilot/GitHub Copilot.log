@@ -1,0 +1,4 @@
+2024-11-04 05:43:48.192 [info] [certificates] Removed 1 expired certificates
+2024-11-04 05:43:48.911 [info] [fetcher] Using Helix fetcher, Electron fetcher is not available.
+2024-11-04 05:43:48.911 [info] [code-referencing] Public code references are enabled.
+2024-11-04 05:43:48.972 [info] [auth] Successfully authenticated

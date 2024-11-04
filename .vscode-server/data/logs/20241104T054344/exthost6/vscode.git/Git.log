@@ -1,0 +1,36 @@
+2024-11-04 05:45:08.526 [info] [main] Log level: Info
+2024-11-04 05:45:08.526 [info] [main] Validating found git in: "git"
+2024-11-04 05:45:08.526 [info] [main] Using git "2.25.1" from "git"
+2024-11-04 05:45:08.526 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-04 05:45:08.526 [info] > git rev-parse --show-toplevel [4585ms]
+2024-11-04 05:45:08.526 [info] > git rev-parse --git-dir --git-common-dir [100ms]
+2024-11-04 05:45:08.526 [info] [Model][openRepository] Opened repository: /home/kit214
+2024-11-04 05:45:09.065 [info] > git config --get commit.template [185ms]
+2024-11-04 05:45:09.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [72ms]
+2024-11-04 05:45:10.606 [info] > git check-ignore -v -z --stdin [1139ms]
+2024-11-04 05:45:10.638 [info] > git rev-parse --show-toplevel [44ms]
+2024-11-04 05:45:10.681 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [45ms]
+2024-11-04 05:45:10.703 [info] > git rev-parse --show-toplevel [53ms]
+2024-11-04 05:45:10.741 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-04 05:45:11.193 [info] > git status -z -uall [575ms]
+2024-11-04 05:45:11.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [463ms]
+2024-11-04 05:45:11.811 [info] > git rev-parse --show-toplevel [688ms]
+2024-11-04 05:45:11.875 [info] > git config --local branch.master.vscode-merge-base [63ms]
+2024-11-04 05:45:11.875 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-04 05:45:11.881 [info] > git config --get commit.template [84ms]
+2024-11-04 05:45:11.988 [info] > git rev-parse --show-toplevel [115ms]
+2024-11-04 05:45:12.073 [info] > git reflog master --grep-reflog=branch: Created from *. [192ms]
+2024-11-04 05:45:12.085 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-04 05:45:12.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [76ms]
+2024-11-04 05:45:12.136 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [56ms]
+2024-11-04 05:45:12.136 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-04 05:45:12.136 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-04 05:45:12.187 [info] > git rev-parse --show-toplevel [53ms]
+2024-11-04 05:45:12.196 [info] > git merge-base refs/heads/master refs/remotes/origin/master [53ms]
+2024-11-04 05:45:12.279 [info] > git rev-parse --git-dir --git-common-dir [84ms]
+2024-11-04 05:45:12.284 [info] [Model][openRepository] Opened repository: /home/kit214/.nvm
+2024-11-04 05:45:12.306 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [85ms]
+2024-11-04 05:45:12.307 [info] > git diff --name-status -z --diff-filter=ADMR 0e5543c27140ccff0401e8cbdba7a2ff5a202009...refs/remotes/origin/master [104ms]
+2024-11-04 05:45:12.314 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-04 05:45:12.314 [info] > git config --get commit.template [20ms]
+2024-11-04 05:45:12.362 [info] > git rev-parse --show-toplevel [37ms]

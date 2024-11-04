@@ -1,0 +1,211 @@
+2024-11-04 05:46:49.135 [info] Extension host with pid 7736 started
+2024-11-04 05:46:49.212 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-04 05:46:49.259 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-04 05:46:49.259 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-04 05:46:49.539 [info] Eager extensions activated
+2024-11-04 05:46:49.551 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:46:49.552 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:46:49.553 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:46:49.553 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:46:56.556 [info] Extension host terminating: received terminate message from renderer
+2024-11-04 05:46:56.577 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.578 [error] Fake Auth request failed
+2024-11-04 05:46:56.578 [error] Canceled: Canceled
+    at Pc (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:7:1122)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152517
+    at Array.forEach (<anonymous>)
+    at py.dispose (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:152457)
+    at _z.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:118:10082)
+    at xC.terminate (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+    at Zi (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at Vn.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+    at Fm.A (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+    at mh.value (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+    at P.B (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+    at P.fire (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+    at j5.acceptChunk (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+    at file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:7226
+    at Socket.t (file:///home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Socket.Readable.push (node:internal/streams/readable:390:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23)
+2024-11-04 05:46:56.579 [info] Extension host with pid 7736 exiting with code 0

@@ -1,0 +1,11 @@
+2024-11-04 05:43:46.056 [info] Extension host with pid 3294 started
+2024-11-04 05:43:46.128 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-04 05:43:46.239 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-04 05:43:46.239 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-04 05:43:46.672 [info] Eager extensions activated
+2024-11-04 05:43:46.672 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:43:46.672 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:43:46.673 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:43:46.673 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 05:43:54.979 [info] Extension host terminating: received terminate message from renderer
+2024-11-04 05:43:55.003 [info] Extension host with pid 3294 exiting with code 0

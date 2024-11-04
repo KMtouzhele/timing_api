@@ -1,0 +1,67 @@
+2024-11-04 05:44:44.854 [info] [main] Log level: Info
+2024-11-04 05:44:44.854 [info] [main] Validating found git in: "git"
+2024-11-04 05:44:44.854 [info] [main] Using git "2.25.1" from "git"
+2024-11-04 05:44:44.854 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-04 05:44:44.854 [info] > git rev-parse --show-toplevel [1084ms]
+2024-11-04 05:44:44.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:44.854 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-04 05:44:44.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:44.863 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-04 05:44:45.048 [info] > git rev-parse --git-dir --git-common-dir [179ms]
+2024-11-04 05:44:45.061 [info] [Model][openRepository] Opened repository: /var/www/html/DVWA
+2024-11-04 05:44:45.078 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-04 05:44:45.079 [info] > git config --get commit.template [11ms]
+2024-11-04 05:44:45.094 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-11-04 05:44:45.098 [info] [Model][openRepository] Opened repository: /var/www/html/kit214-tutorial9-php
+2024-11-04 05:44:45.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2024-11-04 05:44:45.121 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-11-04 05:44:45.122 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-04 05:44:45.122 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.123 [info] > git config --get commit.template [20ms]
+2024-11-04 05:44:45.198 [info] > git rev-parse refs/remotes/origin/master [78ms]
+2024-11-04 05:44:45.282 [info] > git status -z -uall [78ms]
+2024-11-04 05:44:45.282 [info] > git rev-parse --show-toplevel [85ms]
+2024-11-04 05:44:45.283 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [78ms]
+2024-11-04 05:44:45.295 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [86ms]
+2024-11-04 05:44:45.317 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-11-04 05:44:45.322 [info] > git rev-parse --show-toplevel [32ms]
+2024-11-04 05:44:45.322 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.324 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2024-11-04 05:44:45.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2024-11-04 05:44:45.347 [info] > git status -z -uall [18ms]
+2024-11-04 05:44:45.348 [info] > git config --get commit.template [27ms]
+2024-11-04 05:44:45.778 [info] > git config --local branch.master.vscode-merge-base [439ms]
+2024-11-04 05:44:45.783 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [450ms]
+2024-11-04 05:44:45.822 [info] > git check-ignore -v -z --stdin [26ms]
+2024-11-04 05:44:45.822 [info] > git check-ignore -v -z --stdin [22ms]
+2024-11-04 05:44:45.823 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2024-11-04 05:44:45.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [44ms]
+2024-11-04 05:44:45.844 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [67ms]
+2024-11-04 05:44:45.845 [info] > git rev-parse --show-toplevel [501ms]
+2024-11-04 05:44:45.845 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.849 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/var/www/html/DVWA/.git/refs/remotes/origin/master'
+2024-11-04 05:44:45.855 [info] > git merge-base refs/heads/master refs/remotes/origin/master [24ms]
+2024-11-04 05:44:45.859 [info] > git config --local branch.main.vscode-merge-base [32ms]
+2024-11-04 05:44:45.863 [info] > git config --get commit.template [58ms]
+2024-11-04 05:44:45.874 [info] > git diff --name-status -z --diff-filter=ADMR fd46b369c24f009ef36c7b4e7e66227a96b54db9...refs/remotes/origin/master [15ms]
+2024-11-04 05:44:45.875 [info] > git rev-parse --show-toplevel [22ms]
+2024-11-04 05:44:45.875 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.875 [info] > git rev-parse refs/remotes/origin/master [26ms]
+2024-11-04 05:44:45.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [46ms]
+2024-11-04 05:44:45.916 [info] > git status -z -uall [37ms]
+2024-11-04 05:44:45.916 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-04 05:44:45.916 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:45.916 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-11-04 05:44:45.917 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [33ms]
+2024-11-04 05:44:45.927 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/var/www/html/kit214-tutorial9-php/.git/refs/remotes/origin/main'
+2024-11-04 05:44:45.957 [info] > git merge-base refs/heads/main refs/remotes/origin/main [44ms]
+2024-11-04 05:44:45.991 [info] > git rev-parse refs/remotes/origin/main [63ms]
+2024-11-04 05:44:46.003 [info] > git rev-parse --show-toplevel [80ms]
+2024-11-04 05:44:46.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:46.008 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-04 05:44:46.052 [info] > git status -z -uall [55ms]
+2024-11-04 05:44:46.053 [info] > git diff --name-status -z --diff-filter=ADMR b5e820ae438b360470bc13ccf875a3ed28e316a6...refs/remotes/origin/main [90ms]
+2024-11-04 05:44:46.065 [info] > git rev-parse --show-toplevel [45ms]
+2024-11-04 05:44:46.065 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-04 05:44:46.080 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [77ms]

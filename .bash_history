@@ -522,3 +522,12 @@ sudo service apache2 stop
 node index.js
 sudo service apache2 stop
 node index.js
+git branch
+git add .
+git commit -m "Finished"
+git push origin master
+ls
+sudo service apache2 stop
+node index.js
+sudo service apache2 stop
+node index.js

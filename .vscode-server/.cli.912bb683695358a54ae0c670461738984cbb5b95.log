@@ -1,0 +1,10 @@
+Listening on 127.0.0.1:37375
+[2024-11-04 05:46:47] info Disposed of connection to running server.
+looking for token 8e1f86e0-7909-4fc9-af4b-ee4e3a71c0cd, got Some("8e1f86e0-7909-4fc9-af4b-ee4e3a71c0cd")
+[2024-11-04 05:46:48] info Checking /home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/pid.txt for a running server...
+[2024-11-04 05:46:48] info Found running server (pid=3022)
+[2024-11-04 05:46:56] info Disposed of connection to running server.
+[2024-11-04 05:46:57] info Disposed of connection to running server.
+looking for token 8e1f86e0-7909-4fc9-af4b-ee4e3a71c0cd, got Some("8e1f86e0-7909-4fc9-af4b-ee4e3a71c0cd")
+[2024-11-04 05:46:57] info Checking /home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/log.txt and /home/kit214/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/pid.txt for a running server...
+[2024-11-04 05:46:57] info Found running server (pid=3022)

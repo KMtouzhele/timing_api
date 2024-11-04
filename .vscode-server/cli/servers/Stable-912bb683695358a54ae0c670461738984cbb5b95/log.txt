@@ -1,0 +1,70 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-35f28a61-a93f-4f31-a123-da301151b7a4
+Extension host agent listening on /tmp/code-35f28a61-a93f-4f31-a123-da301151b7a4
+
+[05:43:44] 
+
+
+
+
+[05:43:44] Extension host agent started.
+[05:43:44] [<unknown>][bde842bb][ExtensionHostConnection] New connection established.
+[05:43:44] [<unknown>][7d301707][ManagementConnection] New connection established.
+[05:43:45] [<unknown>][bde842bb][ExtensionHostConnection] <3294> Launched Extension Host Process.
+[05:43:54] [<unknown>][7d301707][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:43:55] [<unknown>][bde842bb][ExtensionHostConnection] <3294> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:43:55] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:43:55] Last EH closed, waiting before shutting down
+[05:43:55] [<unknown>][2081d052][ManagementConnection] New connection established.
+[05:43:55] [<unknown>][20c6a718][ExtensionHostConnection] New connection established.
+[05:43:55] [<unknown>][20c6a718][ExtensionHostConnection] <3636> Launched Extension Host Process.
+[05:44:29] [<unknown>][2081d052][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:44:29] [<unknown>][20c6a718][ExtensionHostConnection] <3636> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:44:29] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:44:29] Last EH closed, waiting before shutting down
+[05:44:30] [<unknown>][815777e3][ManagementConnection] New connection established.
+[05:44:30] [<unknown>][5cabdc36][ExtensionHostConnection] New connection established.
+[05:44:30] [<unknown>][5cabdc36][ExtensionHostConnection] <4098> Launched Extension Host Process.
+[05:44:41] [<unknown>][815777e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:44:41] [<unknown>][5cabdc36][ExtensionHostConnection] <4098> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:44:41] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:44:41] Last EH closed, waiting before shutting down
+[05:44:42] [<unknown>][adec79a3][ManagementConnection] New connection established.
+[05:44:42] [<unknown>][1cda5b83][ExtensionHostConnection] New connection established.
+[05:44:42] [<unknown>][1cda5b83][ExtensionHostConnection] <4430> Launched Extension Host Process.
+[05:44:54] [<unknown>][adec79a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:44:54] [<unknown>][1cda5b83][ExtensionHostConnection] <4430> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:44:54] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:44:54] Last EH closed, waiting before shutting down
+[05:44:55] [<unknown>][c86331c7][ExtensionHostConnection] New connection established.
+[05:44:55] [<unknown>][c86331c7][ExtensionHostConnection] <4831> Launched Extension Host Process.
+[05:44:55] [<unknown>][a796e7fc][ManagementConnection] New connection established.
+[05:44:59] [<unknown>][a796e7fc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:44:59] [<unknown>][c86331c7][ExtensionHostConnection] <4831> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:44:59] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:44:59] Last EH closed, waiting before shutting down
+[05:45:00] [<unknown>][d01e60de][ManagementConnection] New connection established.
+[05:45:00] [<unknown>][35e881ab][ExtensionHostConnection] New connection established.
+[05:45:00] [<unknown>][35e881ab][ExtensionHostConnection] <5144> Launched Extension Host Process.
+[05:45:12] [<unknown>][d01e60de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:45:13] [<unknown>][35e881ab][ExtensionHostConnection] <5144> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[05:45:13] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[05:45:13] Last EH closed, waiting before shutting down
